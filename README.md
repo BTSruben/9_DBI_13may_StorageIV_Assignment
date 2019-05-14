@@ -1,6 +1,6 @@
 # 9_DBI_13may_StorageIV_Assignment
 
-1. We need to add our datase into Hadoop System
+1. We need to add our dataset into Hadoop System
 
     Copy dataset to namenode container:
 
